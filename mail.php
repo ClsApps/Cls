@@ -1,6 +1,6 @@
 <?php
-	//alert("We are in Mail.php now");
-	echo "We are in Mail.php now";
+	alert("We are in Mail now");
+	echo "We are in Mail now";
 
 	 
 	$name = $_POST['name'];
